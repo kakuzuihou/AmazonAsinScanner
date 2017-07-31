@@ -15,4 +15,4 @@ But you can use it, give the search url and the name of outputting csv file to i
 
 Example:
 
-java -jar AsinScanner.jar <URL> <output_filename>
+java -jar AsinScanner.jar <search_url> <output_filename>
